@@ -14,6 +14,8 @@ This repository contains scripts for processing text files, managing a character
   - [Word Extraction and Chunking](#word-extraction-and-chunking)
   - [New Words Processing](#new-words-processing)
 - [Considerations for Performance](#considerations-for-performance)
+- [License](#license)
+-[Acknowledgments](#acknowledgements)
 - [Conclusion](#conclusion)
 
 ## Requirements
@@ -98,6 +100,16 @@ def add_new_words(output_folder, all_words_folder):
 - **Memory Management**: The scripts are designed to handle large datasets efficiently by processing files in smaller batches and writing output immediately.
 - **Error Handling**: The scripts include error handling to manage file access issues gracefully.
 - **Resource Limits**: Monitor system resources while running the scripts, especially on systems with limited memory.
+
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
+### Acknowledgments
+
+- This project uses data from Wikipedia, licensed under the [Creative Commons Attribution-ShareAlike License](https://creativecommons.org/licenses/by-sa/3.0/).
+- Unicode data and standards are provided by the [Unicode Consortium](https://www.unicode.org/).
+
 
 ## Conclusion
 
