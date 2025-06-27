@@ -15,7 +15,7 @@ This repository contains scripts for processing text files, managing a character
   - [New Words Processing](#new-words-processing)
 - [Considerations for Performance](#considerations-for-performance)
 - [License](#license)
--[Acknowledgments](#acknowledgements)
+- [Acknowledgments](#acknowledgments)
 - [Conclusion](#conclusion)
 
 ## Requirements
