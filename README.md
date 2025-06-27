@@ -37,10 +37,10 @@ This repository contains scripts for processing text files, managing a character
    - Update the character dictionary and extract words.
    - Process new words against the existing dictionary.
 ```bash
-sort_output_chunks.py
+extract_from_chunky.py
 ```
 ```bash
-extract_from_chunky.py
+sort_output_chunks.py
 ```
 
 ## Scripts
