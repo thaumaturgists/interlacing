@@ -53,6 +53,15 @@ all_characters/
     └── Greek_part_1.txt
 ```
 
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
+### Acknowledgments
+
+- This project uses data from Wikipedia, licensed under the [Creative Commons Attribution-ShareAlike License](https://creativecommons.org/licenses/by-sa/3.0/).
+- Unicode data and standards are provided by the [Unicode Consortium](https://www.unicode.org/).
+
 ## Conclusion
 
 The Character Sorter script is a powerful tool for organizing and processing text data with diverse character sets. By categorizing characters by their Unicode script, it facilitates easier analysis and manipulation of multilingual text.
