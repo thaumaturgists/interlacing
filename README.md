@@ -1,4 +1,9 @@
-# Interlacing for File Processing and Dictionary Management
+<img src="./public/images/feather angel icon Interleafing.png" alt="Interlacing for File Processing and Dictionary Management" width="658"/>
+
+![Version](https://img.shields.io/badge/version-1.0.0-blue)
+![License](https://img.shields.io/badge/license-MIT-green)
+
+
 
 ## Overview
 
