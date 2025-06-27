@@ -35,7 +35,13 @@ This repository contains scripts for processing text files, managing a character
    ```
 3. Run the scripts in the following order:
    - Update the character dictionary and extract words.
+```bash
+extract_from_chunky.py
+```
    - Process new words against the existing dictionary.
+```bash
+sort_output_chunks.py
+```
 
 ## Scripts
 
