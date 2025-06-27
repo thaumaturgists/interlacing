@@ -1,3 +1,13 @@
+"""
+Character Sorter
+
+This script is licensed under the MIT License. See the https://github.com/thaumaturgists/interlacing/blob/main/LICENSE file for details.
+
+Acknowledgments:
+- This project uses data from Wikipedia, licensed under the Creative Commons Attribution-ShareAlike License.
+- Unicode data and standards are provided by the Unicode Consortium.
+"""
+
 import os
 import logging
 from collections import defaultdict
